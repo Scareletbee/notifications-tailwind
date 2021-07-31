@@ -1,2 +1,2 @@
-# notifications-tailwind
+# motifications-tailwind
 Created with CodeSandbox
